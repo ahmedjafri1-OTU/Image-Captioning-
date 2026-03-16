@@ -19,8 +19,18 @@ Examples are shown below in the demo screenshots.
 Example outputs from the application:
 Simple image 
 Image: Cat
+
+**CAT**
+
+<img src="Cat%20Image.png" width="400" />
+
 Caption generated: “a cat laying on the floor looking up”
-Complex scene
+
 Image: Outdoor park with fountain and structures
+
+**OUTDOOR**
+
+<img src="Outdoor.png" width="400" />
 Caption generated: “a small pond with a fountain and a few boats”
-The second example highlights how scene complexity can reduce caption accuracy, as the model simplifies the environment.
+
+### The second example highlights how scene complexity can reduce caption accuracy, as the model simplifies the environment.
